@@ -1,4 +1,4 @@
-FROM zhuokund/pytorch:v1.0.1-py36-torch1.1.0-cuda10.0-dj0.11.x
+FROM zhuokund/pytorch:v1.2-py38-torch1.7.0-cuda11.0-dj0.11.x
     
 WORKDIR /src
 
